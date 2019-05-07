@@ -2,40 +2,6 @@ package lintcode;
 
 //Definition of TreeNode:
 
-class TreeNode {
-    public int val;
-    public TreeNode left, right;
-
-    public TreeNode(int val) {
-        this.val = val;
-        this.left = this.right = null;
-    }
-
-    public int getVal() {
-        return val;
-    }
-
-    public void setVal(int val) {
-        this.val = val;
-    }
-
-    public TreeNode getLeft() {
-        return left;
-    }
-
-    public void setLeft(TreeNode left) {
-        this.left = left;
-    }
-
-    public TreeNode getRight() {
-        return right;
-    }
-
-    public void setRight(TreeNode right) {
-        this.right = right;
-    }
-}
-
 public class _535 {
     public static int[] postTrack(TreeNode node) {
         if (node == null) {
@@ -60,7 +26,6 @@ public class _535 {
 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(2);
-        root.setLeft(new TreeNode(1));
         houseRobber3(root);
     }
 }
