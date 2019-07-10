@@ -37,10 +37,6 @@ public class _18 {
                 }
             }
         }
-//        Iterator<List<Integer>> iterator = res.iterator();
-//        while (iterator.hasNext()) {
-//            System.out.println(iterator.next());
-//        }
         return res;
     }
 
