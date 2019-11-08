@@ -29,7 +29,7 @@ public class _6 {
 
     public static void main(String[] args) {
         _6 c = new _6();
-        String s = "PAYPALISHIRING";
+        String s = "LEETCODEISHIRING";
         int numRows = 3;
         System.out.println(c.convert(s, numRows));
     }
