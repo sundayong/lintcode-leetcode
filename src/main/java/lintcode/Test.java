@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 /**
  * 水仙花

@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.Arrays;
-
 public class _1281 {
     public int subtractProductAndSum(int n) {
         int sum1 = 0;

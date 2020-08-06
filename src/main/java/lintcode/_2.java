@@ -1,6 +1,4 @@
-package lintcode;
-
-import java.math.BigInteger;
+package lintcode;;
 
 public class _2 {
     public static long trailingZeros(long n) {

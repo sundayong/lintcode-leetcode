@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 import java.util.ArrayList;
 import java.util.List;

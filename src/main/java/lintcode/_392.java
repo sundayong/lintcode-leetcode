@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 public class _392 {
 

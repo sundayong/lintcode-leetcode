@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 import java.util.Arrays;
 import java.util.HashMap;

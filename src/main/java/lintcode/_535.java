@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 //Definition of TreeNode:
 

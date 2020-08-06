@@ -1,4 +1,4 @@
-package lintcode;
+package lintcode;;
 
 public class _8 {
     public static void rotateString(char[] str, int offset) {
